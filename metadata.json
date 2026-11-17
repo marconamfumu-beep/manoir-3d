@@ -1,0 +1,5 @@
+{
+  "name": "Manoir 3D",
+  "description": "Explorateur 3D interactif du manoir abandonné (manoir_abandonne.glb)",
+  "requestFramePermissions": []
+}
